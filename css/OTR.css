@@ -1,0 +1,172 @@
+.fun-facts-header{
+	color: white;
+	text-align: center;
+    font-size: 28px;
+    font-family: 'Oswald', sans-serif;
+    text-transform: none;
+}
+
+.fun-facts-text{
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 300;
+}
+
+
+
+.portfolio-caption a.link-3 i {
+    transition: transform .2s; /* Animation */
+}
+
+.portfolio-caption a.link-3 i:hover {
+    transform: scale(2.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+.info-block-link a p.test {
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-size: 1.75em;
+}
+
+
+#main-slide .item #otr-logo{
+	position: relative;
+	top: -10em;
+	height:450px;
+	width: 450px;
+
+}
+
+
+#otr-logo {
+	animation: otrlogofadein 12s;
+}
+
+
+@keyframes otrlogofadein {
+    from { 
+    	opacity: 0;
+    }
+    to {
+    	opacity: 1;
+    }
+}
+
+.portfolio-caption {
+	opacity: 1;
+}
+
+.portfolio-caption h4 {
+	opacity: 1;
+  	border-radius: 5px;	
+  	top: 70%;
+}
+
+
+
+.portfolio-item {
+	padding: 10px;
+}
+
+
+
+.plan-signup a {
+    background: white;
+    color: #990f00;
+    padding: 0.6em;
+    border-radius: 2px;
+}
+
+.plan-signup a:hover {
+    background: grey;
+}
+
+/*
+ This is the feedback section
+*/
+.testimonials .testimonial-author .author{
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.testimonials .testimonial-author .designation{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.testimonials .testimonial-content p{
+	font-size: 15px;
+	font-style: italic;
+}
+
+.testimonial-section{
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.testimonials .testimonial-author{
+	margin-bottom: 10px;	
+}
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons .owl-prev{
+	top: 30%;
+}
+
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons .owl-next{
+	top: 30%;
+}
+
+/* Call to ation (or Donate) section */
+.call-to-action .btn-danger{
+	background-color: #990f00;
+}
+
+
+.call-to-action .modal-header{
+	background-color: #990f00;
+}
+
+.call-to-action .modal-body{
+	color: #666;
+}
+
+.call-to-action .intro-text p{
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+
+.text-align-top {
+  vertical-align: top;
+}
+
+
+.modal-img-general{
+	float: left;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-bottom: 15px;	
+}
+
+.list-layout ul {
+    display: inline-block;
+    list-style-type: disc;
+    margin: 0px 0px 15px 0px;
+    padding-left: 20px;
+}
+
+.list-layout li {
+	list-style: 	disc outside none;
+	padding-left: 5px;
+}
+
+.counselling-modal-layout p {
+	padding-left: 5px;
+	margin-bottom: 0;
+}
+
+.section-title p{
+	padding-bottom: 10px;
+}
