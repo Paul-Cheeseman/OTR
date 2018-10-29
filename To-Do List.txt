@@ -1,4 +1,6 @@
-RECREATE THE GIT DIR! ALSO GITHUB PAGES!
+The "more information section", Sex and relationships, lists need to have title of list and bullet points closed up.
+
+The other information pages need that layout
 
 On donation page, maybe have it like services where each image kicks off another modal?
 
