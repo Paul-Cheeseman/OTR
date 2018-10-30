@@ -167,6 +167,11 @@
 	padding-left: 5px;
 }
 
+ .different-list-icon li {
+	list-style-type: circle;
+ }
+
+
 .counselling-modal-layout p {
 	padding-left: 5px;
 	margin-bottom: 0;

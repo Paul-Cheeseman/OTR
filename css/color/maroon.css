@@ -188,9 +188,6 @@ fieldset[disabled] .btn-xl.active {
 .portfolio-caption a i {
     color: #990f00;
 }
-.portfolio-item:hover .portfolio-caption {
-    background-color: rgba(153, 15, 0, 0.8);
-}
 
 .welcome-section:hover .border {
     border-color: #990f00;
