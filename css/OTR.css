@@ -150,6 +150,11 @@
 	margin-bottom: 15px;	
 }
 
+
+.list-layout h5 {
+    margin-bottom: 0px;
+}
+
 .list-layout ul {
     display: inline-block;
     list-style-type: disc;
@@ -158,9 +163,14 @@
 }
 
 .list-layout li {
-	list-style: 	disc outside none;
+	list-style: disc outside none;
 	padding-left: 5px;
 }
+
+ .different-list-icon li {
+	list-style-type: circle;
+ }
+
 
 .counselling-modal-layout p {
 	padding-left: 5px;
@@ -170,3 +180,6 @@
 .section-title p{
 	padding-bottom: 10px;
 }
+
+
+
