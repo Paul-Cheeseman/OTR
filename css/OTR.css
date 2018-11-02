@@ -30,7 +30,7 @@
 }
 
 
-#main-slide .item #otr-logo{
+#main-slide .item .otr-logo{
 	position: relative;
 	top: -10em;
 	height:450px;
@@ -39,7 +39,7 @@
 }
 
 
-#otr-logo {
+.otr-logo {
 	animation: otrlogofadein 12s;
 }
 
@@ -181,5 +181,16 @@
 	padding-bottom: 10px;
 }
 
+#otr-logo-sm {
+	height: 150px;
+	width: 150px;	
+	margin-top: 20px;
+}
 
-
+#otr-logo-sm-div{
+	margin-top: 50px;
+	height: 200px;
+	background-image: url("../images/OTR/Test2.jpg");
+	background-repeat: no-repeat;
+	background-size:100%;
+}
