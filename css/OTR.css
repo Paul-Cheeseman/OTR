@@ -79,8 +79,10 @@
 }
 
 .plan-signup a:hover {
-    background: grey;
+    font-size: 1.3em;
 }
+
+
 
 /*
  This is the feedback section
