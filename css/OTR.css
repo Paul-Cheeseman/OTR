@@ -205,6 +205,32 @@
 	}
 }
 
+.text-center h4 {
+	text-align: center;
+}
+
+
+#portfolio-modal-donate div.col-md-6{
+	margin-bottom: 30px;
+}
+
+
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #fff;
+    background-color: transparent;
+}
+
+
+
+.navbar-default .nav li a:hover {
+    outline: 0;
+    color: #990f00;
+    background: #fff;
+    border-radius: 2px;
+}
+
+
 /* 
 @media (min-width: 768px) and (max-width: 991px) {
 
