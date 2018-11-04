@@ -105,11 +105,6 @@ fieldset[disabled] .btn-xl.active {
     background-color: #990f00;
 }
 
-.navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus {
-    outline: 0;
-    color: #990f00;
-}
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {

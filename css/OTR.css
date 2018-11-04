@@ -184,16 +184,31 @@
 #otr-logo-sm {
 	height: 150px;
 	width: 150px;	
-	margin-top: 20px;
+	margin: 5px;
 }
 
 #otr-logo-sm-div{
 	margin-top: 50px;
-	height: 200px;
-	background-image: url("../images/OTR/Test2.jpg");
+	padding-top: 25px;
+	height: 350px;
+	background-image: url("../images/OTR/Test3.jpg");
 	background-repeat: no-repeat;
-	background-size:100%;
+	background-size: cover;
 }
+
+#otr-logo-sm-div h3 {
+	color: #990f00;
+}
+
+#otr-logo-sm-div h3 span {
+	color: white;
+}
+
+#otr-logo-sm-div h5 {
+	color: white;
+	font-style: italic;
+}
+
 
 #main-slide .slider-content p{
 	font-style: italic;
@@ -203,6 +218,38 @@
 	.navbar-default .navbar-brand {
 		font-size: 1.65em;
 	}
+}
+
+.text-center h4 {
+	text-align: center;
+}
+
+
+#portfolio-modal-donate div.col-md-6{
+	margin-bottom: 30px;
+}
+
+
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #fff;
+    background-color: transparent;
+}
+
+
+.navbar-default .nav li a:hover {
+    outline: 0;
+    color: #990f00;
+    background: #fff;
+    border-radius: 2px;
+}
+
+.our-team p{
+	font-style: italic;
+}
+
+.our-team h4{
+	font-weight: bold;
 }
 
 /* 
